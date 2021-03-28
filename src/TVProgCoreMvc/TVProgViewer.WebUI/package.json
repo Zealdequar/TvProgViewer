@@ -31,7 +31,7 @@
     "jquery-migrate": "3.1.0",
     "jquery-tageditor": "1.0.1",
     "jquery-ui-dist": "1.12.1",
-    "jquery-validation": "1.19.1",
+    "jquery-validation": "1.19.3",
     "jquery-validation-globalize": "0.1.1",
     "jquery-validation-unobtrusive": "3.2.11",
     "jsrender": "1.0.5",
